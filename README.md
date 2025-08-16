@@ -74,4 +74,4 @@ Enterprise knowledge systems often retrieve noisy or irrelevant context due to i
 - **Sentence-BERT** (for embeddings)  
 - **Matplotlib, Seaborn**  
 
-For questions or collaborations, feel free to connect via Linkedin: https://www.linkedin.com/in/adityaahir/.
+For questions or collaborations, feel free to connect via Linkedin:- https://www.linkedin.com/in/adityaahir/.
